@@ -16,5 +16,4 @@ mvn clean package
 java -jar target/name_of_jar.jar
 
 # Test Commit
-#adding new
-#again testing
+#commit
